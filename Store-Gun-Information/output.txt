@@ -1,0 +1,88 @@
+Gunname   Price   Capacity   TypeofGun   Length   Weight   Quantity   OutofService   OriginCountry   YearMadeWed Oct 26 07:26:58 EDT 2016
+Insert :Colt AR-15  $1500  10  Semi-Automatic Rifle  39-in  8 lbs  1000  NO  USA  1958 at Wed Oct 26 07:26:58 EDT 2016
+Insert :Ruger SR9  $529  17  Pistol  7.55-in  1.66 lbs  100  NO  USA  2007 at Wed Oct 26 07:26:58 EDT 2016
+Insert :Uzi  $700  50  Submachine Gun  25-in  7.72 lbs  50  NO  ISREAL  1954 at Wed Oct 26 07:26:58 EDT 2016
+Insert :HK416  $999  30  Assault Rifle  27.2-in  6.5 lbs  90  NO  Germany  2004 at Wed Oct 26 07:26:58 EDT 2016
+Insert :Mossberg 590A1  $5000  8  Shotgun  14-in  5.5 lbs  500  NO  USA  1961 at Wed Oct 26 07:26:58 EDT 2016
+Insert :SIG Sauer P228  $600  13  Pistol  7.1-in  29.1 oz  10  NO  Switerland  1980 at Wed Oct 26 07:26:58 EDT 2016
+Insert :Beratta M9  $900  15  Pistol  8.5-in  33.6 oz  99  NO  Italy  1985 at Wed Oct 26 07:26:58 EDT 2016
+Insert :M2010 Enhanced Sniper Rifle  $4000  5  Sniper Rifle  46.5-in  12.1 lbs  20  NO  USA  2011 at Wed Oct 26 07:26:58 EDT 2016
+Insert :M110 Semi-Automatic SNiper System  $9000  20  Sniper Rifle  40.5-in  15.3 lbs  1  NO  USA  2008 at Wed Oct 26 07:26:58 EDT 2016
+Insert :M320 Grenade Launcher Module  $3500  1  Grenade Launcher  13.7-in  3.3 lbs  2  NO  Germany  2008 at Wed Oct 26 07:26:58 EDT 2016
+Insert :M1917 Revolver  $1000  5  Revolver  10.8-in  2.5 lbs  4  Yes  USA  1917 at Wed Oct 26 07:26:58 EDT 2016
+Insert :Smith & Wesson Model 39  $2000  8  Pistol  7.55-in  1.71 lbs  3  Yes  USA  1954 at Wed Oct 26 07:26:58 EDT 2016
+Insert :Remington 870  $500  7  Shotgun  37.5-in  7 lbs  10000  NO  USA  1951 at Wed Oct 26 07:26:58 EDT 2016
+Insert :Benelli M4 Super 90  $1000  7  Shotgun  34.8-in  8.42 lbs  400  NO  USA  1999 at Wed Oct 26 07:26:58 EDT 2016
+Insert :Winchester Model 1897  $872  5  Shotgun  39.25-in  8 lbs  1  Yes  USA  1897 at Wed Oct 26 07:26:58 EDT 2016
+Insert :Ithaca 37  $889  4  Shotgun  29.9-in  7 lbs  1  Yes  USA  1937 at Wed Oct 26 07:26:58 EDT 2016
+Insert :Beretta Model 38  $444  40  Submachine Gun  946-mm  4.2 kg  1  Yes  Italy  1938 at Wed Oct 26 07:26:58 EDT 2016
+Insert :Colt 9mm SMG  $555  32  Submachine Gun  28.9-in  5.75 lbs  20  NO  USA  1982 at Wed Oct 26 07:26:58 EDT 2016
+Insert :Thompson Submachine Gun  $6123  100  Submachine Gun  33.5-in  10.8 lbs  1  YES  USA  1921 at Wed Oct 26 07:26:58 EDT 2016
+Delete: Deleting the gun M110 Semi-Automatic SNiper System because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+Delete: Deleting the gun Winchester Model 1897 because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+Delete: Deleting the gun Ithaca 37 because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+Delete: Deleting the gun Beretta Model 38 because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+Delete: Deleting the gun Thompson Submachine Gun because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+Iventory after deletion
+Colt AR-15  $1500  10  Semi-Automatic Rifle  39-in  8 lbs  1000  NO  USA  1958 Wed Oct 26 07:26:58 EDT 2016
+Ruger SR9  $529  17  Pistol  7.55-in  1.66 lbs  100  NO  USA  2007 Wed Oct 26 07:26:58 EDT 2016
+Uzi  $700  50  Submachine Gun  25-in  7.72 lbs  50  NO  ISREAL  1954 Wed Oct 26 07:26:58 EDT 2016
+HK416  $999  30  Assault Rifle  27.2-in  6.5 lbs  90  NO  Germany  2004 Wed Oct 26 07:26:58 EDT 2016
+Mossberg 590A1  $5000  8  Shotgun  14-in  5.5 lbs  500  NO  USA  1961 Wed Oct 26 07:26:58 EDT 2016
+SIG Sauer P228  $600  13  Pistol  7.1-in  29.1 oz  10  NO  Switerland  1980 Wed Oct 26 07:26:58 EDT 2016
+Beratta M9  $900  15  Pistol  8.5-in  33.6 oz  99  NO  Italy  1985 Wed Oct 26 07:26:58 EDT 2016
+M2010 Enhanced Sniper Rifle  $4000  5  Sniper Rifle  46.5-in  12.1 lbs  20  NO  USA  2011 Wed Oct 26 07:26:58 EDT 2016
+M320 Grenade Launcher Module  $3500  1  Grenade Launcher  13.7-in  3.3 lbs  2  NO  Germany  2008 Wed Oct 26 07:26:58 EDT 2016
+M1917 Revolver  $1000  5  Revolver  10.8-in  2.5 lbs  4  Yes  USA  1917 Wed Oct 26 07:26:58 EDT 2016
+Smith & Wesson Model 39  $2000  8  Pistol  7.55-in  1.71 lbs  3  Yes  USA  1954 Wed Oct 26 07:26:58 EDT 2016
+Remington 870  $500  7  Shotgun  37.5-in  7 lbs  10000  NO  USA  1951 Wed Oct 26 07:26:58 EDT 2016
+Benelli M4 Super 90  $1000  7  Shotgun  34.8-in  8.42 lbs  400  NO  USA  1999 Wed Oct 26 07:26:58 EDT 2016
+Colt 9mm SMG  $555  32  Submachine Gun  28.9-in  5.75 lbs  20  NO  USA  1982 Wed Oct 26 07:26:58 EDT 2016
+modify: Restocking Uzi because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+modify: Restocking HK416 because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+modify: Restocking SIG Sauer P228 because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+modify: Restocking Beratta M9 because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+modify: Restocking M2010 Enhanced Sniper Rifle because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+modify: Restocking M320 Grenade Launcher Module because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+modify: Restocking M1917 Revolver because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+modify: Restocking Smith & Wesson Model 39 because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+modify: Restocking Colt 9mm SMG because of low quantity at Wed Oct 26 07:26:58 EDT 2016
+Iventory after restock
+Colt AR-15  $1500  10  Semi-Automatic Rifle  39-in  8 lbs  1000  NO  USA  1958
+Ruger SR9  $529  17  Pistol  7.55-in  1.66 lbs  100  NO  USA  2007
+Uzi  $700  50  Submachine Gun  25-in  7.72 lbs  73  NO  ISREAL  1954
+HK416  $999  30  Assault Rifle  27.2-in  6.5 lbs  113  NO  Germany  2004
+Mossberg 590A1  $5000  8  Shotgun  14-in  5.5 lbs  500  NO  USA  1961
+SIG Sauer P228  $600  13  Pistol  7.1-in  29.1 oz  33  NO  Switerland  1980
+Beratta M9  $900  15  Pistol  8.5-in  33.6 oz  122  NO  Italy  1985
+M2010 Enhanced Sniper Rifle  $4000  5  Sniper Rifle  46.5-in  12.1 lbs  43  NO  USA  2011
+M320 Grenade Launcher Module  $3500  1  Grenade Launcher  13.7-in  3.3 lbs  25  NO  Germany  2008
+M1917 Revolver  $1000  5  Revolver  10.8-in  2.5 lbs  27  Yes  USA  1917
+Smith & Wesson Model 39  $2000  8  Pistol  7.55-in  1.71 lbs  26  Yes  USA  1954
+Remington 870  $500  7  Shotgun  37.5-in  7 lbs  10000  NO  USA  1951
+Benelli M4 Super 90  $1000  7  Shotgun  34.8-in  8.42 lbs  400  NO  USA  1999
+Colt 9mm SMG  $555  32  Submachine Gun  28.9-in  5.75 lbs  43  NO  USA  1982
+Insert: Adding new gun ArmaLite AR-15 to the inventory at Wed Oct 26 07:26:58 EDT 2016
+Iventory adding a new item
+Colt AR-15  $1500  10  Semi-Automatic Rifle  39-in  8 lbs  1000  NO  USA  1958
+Ruger SR9  $529  17  Pistol  7.55-in  1.66 lbs  100  NO  USA  2007
+Uzi  $700  50  Submachine Gun  25-in  7.72 lbs  73  NO  ISREAL  1954
+HK416  $999  30  Assault Rifle  27.2-in  6.5 lbs  113  NO  Germany  2004
+Mossberg 590A1  $5000  8  Shotgun  14-in  5.5 lbs  500  NO  USA  1961
+SIG Sauer P228  $600  13  Pistol  7.1-in  29.1 oz  33  NO  Switerland  1980
+Beratta M9  $900  15  Pistol  8.5-in  33.6 oz  122  NO  Italy  1985
+M2010 Enhanced Sniper Rifle  $4000  5  Sniper Rifle  46.5-in  12.1 lbs  43  NO  USA  2011
+M320 Grenade Launcher Module  $3500  1  Grenade Launcher  13.7-in  3.3 lbs  25  NO  Germany  2008
+M1917 Revolver  $1000  5  Revolver  10.8-in  2.5 lbs  27  Yes  USA  1917
+Smith & Wesson Model 39  $2000  8  Pistol  7.55-in  1.71 lbs  26  Yes  USA  1954
+Remington 870  $500  7  Shotgun  37.5-in  7 lbs  10000  NO  USA  1951
+Benelli M4 Super 90  $1000  7  Shotgun  34.8-in  8.42 lbs  400  NO  USA  1999
+Colt 9mm SMG  $555  32  Submachine Gun  28.9-in  5.75 lbs  43  NO  USA  1982
+ArmaLite AR-15  $5000  20  Assault Rifle  39-in  6.55 lbs  33  YES  USA  1959
+Query: The following guns are over $1000: Wed Oct 26 07:26:58 EDT 2016
+Colt AR-15
+Mossberg 590A1
+M2010 Enhanced Sniper Rifle
+M320 Grenade Launcher Module
+Smith & Wesson Model 39
+ArmaLite AR-15

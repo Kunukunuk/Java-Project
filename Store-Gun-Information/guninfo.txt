@@ -1,0 +1,19 @@
+Colt AR-15,1500,10,Semi-Automatic Rifle,39-in,8 lbs,1000,NO,USA,1958
+Ruger SR9,529,17,Pistol,7.55-in,1.66 lbs,100,NO,USA,2007
+Uzi,700,50,Submachine Gun,25-in,7.72 lbs,50,NO,ISREAL,1954
+HK416,999,30,Assault Rifle,27.2-in,6.5 lbs,90,NO,Germany,2004
+Mossberg 590A1,5000,8,Shotgun,14-in,5.5 lbs,500,NO,USA,1961
+SIG Sauer P228,600,13,Pistol,7.1-in,29.1 oz,10,NO,Switerland,1980
+Beratta M9,900,15,Pistol,8.5-in,33.6 oz,99,NO,Italy,1985
+M2010 Enhanced Sniper Rifle,4000,5,Sniper Rifle,46.5-in,12.1 lbs,20,NO,USA,2011
+M110 Semi-Automatic SNiper System,9000,20,Sniper Rifle,40.5-in,15.3 lbs,1,NO,USA,2008
+M320 Grenade Launcher Module,3500,1,Grenade Launcher,13.7-in,3.3 lbs,2,NO,Germany,2008
+M1917 Revolver,1000,5,Revolver,10.8-in,2.5 lbs,4,Yes,USA,1917
+Smith & Wesson Model 39,2000,8,Pistol,7.55-in,1.71 lbs,3,Yes,USA,1954
+Remington 870,500,7,Shotgun,37.5-in,7 lbs,10000,NO,USA,1951
+Benelli M4 Super 90,1000,7,Shotgun,34.8-in,8.42 lbs,400,NO,USA,1999
+Winchester Model 1897,872,5,Shotgun,39.25-in,8 lbs,1,Yes,USA,1897
+Ithaca 37,889,4,Shotgun,29.9-in,7 lbs,1,Yes,USA,1937
+Beretta Model 38,444,40,Submachine Gun,946-mm,4.2 kg,1,Yes,Italy,1938
+Colt 9mm SMG,555,32,Submachine Gun,28.9-in,5.75 lbs,20,NO,USA,1982
+Thompson Submachine Gun,6123,100,Submachine Gun,33.5-in,10.8 lbs,1,YES,USA,1921
